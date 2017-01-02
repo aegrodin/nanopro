@@ -1,9 +1,9 @@
 ### This is the beginning of the awesome journey
 
-So, I start from scratch
-consuming lots of info
-to dive into modern programming
-wish me *good luck*.
+So, I start from scratch <b>
+consuming lots of info <b>
+to dive into modern programming <b>
+wish me *good luck*. <b>
 
 ```python
 s = "Hello from Python world"
